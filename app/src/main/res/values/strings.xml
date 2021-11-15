@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image Cropper</string>
+    <string name="reselect_image">TotalityCorp assignment</string>
+    <string name="btn_select_image">Select Image</string>
+</resources>
